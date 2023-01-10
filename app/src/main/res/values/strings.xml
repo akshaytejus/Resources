@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Resources</string>
+    <string name="explore_learn_share">Explore.Learn.Share</string>
+    <string name="discover_new_topics_share_your_ideas_and_knowledge_with_your_peers">Discover new topics, share your ideas and knowledge with your peers</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="Create">create</string>
 </resources>
